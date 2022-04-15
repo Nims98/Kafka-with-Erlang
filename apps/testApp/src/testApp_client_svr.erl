@@ -13,7 +13,5 @@ start_link() ->
 init(_Args) ->
     {ok, _} = application:ensure_all_started(brod),
     KafkaBootstrapEndpoints = [{"localhost", 9092}],
-    Topic = <<"test-topic">>,
-    Partition = 0,
     ok = brod:start_client(KafkaBootstrapEndpoints, client1),
     {ok, #state{}}.
