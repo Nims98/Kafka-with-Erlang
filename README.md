@@ -1,7 +1,7 @@
 Kafka
 =====
 
-![Kafka Structure](D:\Internship\Kafka\01-kafka-cluster-hero.png)
+![Kafka Structure](D:\Internship\Kafka\kafkaErlang\testApp\kafka%20struc.png)
 
 #### Basic Building blocks
 
