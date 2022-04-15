@@ -1,7 +1,7 @@
 Kafka
 =====
 
-![Kafka Structure](D:\Internship\Kafka\kafkaErlang\testApp\kafka%20struc.png)
+![Kafka Structure](![alt text](https://github.com/Nims98/Kafka-with-Erlang/blob/master/kafka_struc.png?raw=true))
 
 #### Basic Building blocks
 
